@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(70, 70, 116);
+}
+.div2{
+    background-color: rgb(77, 77, 145);
+    text-align: center;
+    margin: 0 auto;
+    margin: 10rem 35rem;
+    padding: 5rem;
+}
+.div1{
+    background-color: rgb(102, 102, 176);
+    padding: 4rem;
+}
+.common{
+    border: 5px solid white;
+    color: white;
+    font-size: 2rem;
+}
+
+button{
+    font-size: 30px;
+    margin: auto;
+    width: 110px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    color: #fcfcfc;
+    display: block;
+    background-color: #ba3030;
+}
+.link{
+    font-size: 30px;
+    margin: auto;
+    width: 110px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    color: #fcfcfc;
+    display: block;
+    background-color: #ba3030;
+    text-decoration: none;
+}
